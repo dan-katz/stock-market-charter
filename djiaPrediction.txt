@@ -1,0 +1,132 @@
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 50
+End date: 15-Jul-2016
+Predicted DJIA value: 17925.35
+ 
+DJIA prediction results: 
+Past days used: 500
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17887.46
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 100
+End date: 23-Sep-3916
+Predicted DJIA value: 17940.95
+ 
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 75
+End date: 19-Aug-2016
+Predicted DJIA value: 18079.05
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 200
+End date: 10-Feb-2017
+Predicted DJIA value: 18418.19
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 150
+End date: 02-Dec-2016
+Predicted DJIA value: 18420.15
+ 
+DJIA prediction results: 
+Past days used: 300
+Business days into future: 200
+End date: 10-Feb-2017
+Predicted DJIA value: 18418.19
+ 
+DJIA prediction results: 
+Past days used: 2000
+Business days into future: 1000
+End date: 06-Mar-2020
+Predicted DJIA value: 22238.03
+ 
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 50
+End date: 07/15/2016
+Predicted DJIA value: 17925.35
+ 
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 100
+End date: 09/23/2016
+Predicted DJIA value: 17917.20
+ 
+DJIA prediction results: 
+Past days used: 2000
+Business days into future: 100
+End date: 09/23/2016
+Predicted DJIA value: 17716.53
+ 
+DJIA prediction results: 
+Past days used: 2000
+Business days into future: 100
+End date: 09/23/2016
+Predicted DJIA value: 17716.53
+ 
+DJIA prediction results: 
+Past days used: 2000
+Business days into future: 100
+End date: 23-Sep-2016
+Predicted DJIA value: 17716.53
+ 
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 50
+End date: 15-Jul-2016
+Predicted DJIA value: 17925.35
+ 
+DJIA prediction results: 
+Past days used: 2000
+Business days into future: 50
+End date: 15-Jul-2016
+Predicted DJIA value: 17426.12
+ 
+DJIA prediction results: 
+Past days used: 200
+Business days into future: 50
+End date: 15-Jul-2016
+Predicted DJIA value: 17925.35
+ 
+DJIA prediction results: 
+Past days used: 500
+Business days into future: 250
+End date: 21-Apr-2017
+Predicted DJIA value: 18788.63
+ 
